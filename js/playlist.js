@@ -1,38 +1,31 @@
-// SKATEROOM — PLAYLIST (29 vídeos)
+// SKATEROOM — PLAYLIST (19 vídeos)
 const YT_PLAYLISTS = [
   {name:"90s Skateboarding Classics",listId:"PL-BnylBbKmTnwdIo3QnB5k8jXS52yMJW3",style:"Skate VHS"},
 ];
 
 const PLAYLIST = [
   // === ORIGINAIS (funcionando) ===
-  {name:"90s Skateboarding — VHS Classics",ytId:"d7PoeA4P6Is",style:"Skate VHS",artist:"Thrasher"},
-  {name:"Old School Skate Compilation",ytId:"2IxP5Va9I5I",style:"Old School",artist:"Classic"},
-  {name:"Blind Video Days (1991)",ytId:"gizM-PuVnY0",style:"Classic",artist:"Blind"},
-  // Substituídos (4 quebrados → novos)
-  {name:"Daewon Song — Trilogy",ytId:"M5lX9bOMjMQ",style:"Tech",artist:"Daewon Song"},
   {name:"Mark Gonzales — Blind Video Days",ytId:"MbMKTVFFRQA",style:"Classic",artist:"Gonz"},
-  {name:"Rodney Mullen vs Daewon Song",ytId:"75qILqf2eeE",style:"Tech",artist:"Round 1"},
-  {name:"Chad Muska — Shorty's Fulfill",ytId:"Y6JS_t0WwCg",style:"Street",artist:"Muska"},
-  // Continuação originais
   {name:"Mid90s Official Trailer",ytId:"w9Rx6-GaSIE",style:"Movie",artist:"A24"},
   {name:"Tony Hawk 900 — X Games 1999",ytId:"e4QGnppJ-ys",style:"Vert",artist:"X Games"},
-  // === USER ADDED ===
-  {name:"Shorty's Fulfill The Dream",ytId:"mMlrUm7zG4c",style:"Classic",artist:"Shorty's"},
-  {name:"Thrasher King of The Road",ytId:"Qbxy8rSidLI",style:"Skate",artist:"Thrasher"},
   {name:"Emerica Stay Gold",ytId:"RO0HJzZ9lsE",style:"Street",artist:"Emerica"},
   {name:"Baker 3 Full Video",ytId:"7h7FhNgYtS8",style:"Baker",artist:"Baker"},
   {name:"Almost Round 3",ytId:"dZy7LlC4iTY",style:"Tech",artist:"Almost"},
-  {name:"Flip Sorry Full Video",ytId:"2dJ8t31SwqQ",style:"Classic",artist:"Flip"},
   {name:"Zero Misled Youth",ytId:"THkDL3KGeS0",style:"HC",artist:"Zero"},
-  {name:"Lakai Fully Flared",ytId:"_r7MhoJlWD0",style:"Epic",artist:"Lakai"},
-  {name:"DC Shoes Super Unlimited",ytId:"F8ux0-S1oXM",style:"Street",artist:"DC Shoes"},
-  {name:"Globe Opinion Full Video",ytId:"fJYZllfwBDo",style:"Aussie",artist:"Globe"},
   {name:"Transworld Sight Unseen",ytId:"Uk7J5B3frps",style:"Street",artist:"Transworld"},
-  {name:"Element This Is My Element",ytId:"aKaiKsxN5qI",style:"Flow",artist:"Element"},
-  // === NOVOS (março 2026) ===
   {name:"Andrew Reynolds — Baker 4",ytId:"Y4LRxAk-iP4",style:"Baker",artist:"Reynolds"},
   {name:"Eric Koston — Girl Yeah Right",ytId:"I-Y5FHI4JXc",style:"Tech",artist:"Girl"},
-  {name:"Bones Brigade — Search for Animal Chin",ytId:"UxwK3YZV25Q",style:"Classic",artist:"Powell Peralta"},
+
+  // === NOVOS ADICIONADOS ===
+  {name:"Taylor Kirby's Spitfire Wheels Part",ytId:"SKTmac6sfgo",style:"Street",artist:"Kirby"},
+  {name:"T-Funk & Friends : SF",ytId:"YBK0MVudDTg",style:"Street",artist:"T-Funk"},
+  {name:"one time",ytId:"sG9rsvtrLS4",style:"Street",artist:"Independent"},
+  {name:"Butter in Colombia",ytId:"DkuQwsEUhe0",style:"Street",artist:"Butter Goods"},
+  {name:"Gabriel Summers GABBERS Part",ytId:"BF9P9ATBChk",style:"Street",artist:"Gabriel Summers"},
+  {name:"Nike SB | Dashawn Jordan | SB Dunk Low",ytId:"FeoRc4je0yw",style:"Street",artist:"Nike SB"},
+  {name:"Classics: Paul Rodriguez Yeah Right 2003",ytId:"c3myBwCLymA",style:"Classic",artist:"P-Rod"},
+  {name:"Daan Van Der Linden's Spitfire Part",ytId:"zzgGGebv6aA",style:"Street",artist:"Daan Van Der Linden"},
+  {name:"GX1000: SPRING26",ytId:"_ZTRk_noYX0",style:"Street",artist:"GX1000"}
 ];
 
 const DEFAULT_PLAYLIST_ID = "PL-BnylBbKmTnwdIo3QnB5k8jXS52yMJW3";
