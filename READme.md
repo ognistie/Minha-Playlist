@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/badge/DOCKER-Ready-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
 
-<h1 align="center">🛹 SKATEROOM — Bonde Room</h1>
+<h1 align="center">🛹 SKATE ROOM</h1>
 <p align="center"><strong>Watch party em tempo real com estética skate/rap 90s</strong></p>
 <p align="center">
   <a href="https://github.com/ognistie/Minha-Playlist">📂 Repositório</a> ·
